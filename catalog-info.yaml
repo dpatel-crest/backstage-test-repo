@@ -2,8 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: backstage-test-repo-again
-  annotations:
-    github.com/project-slug: dpatel-crest/backstage-test-repo
 spec:
   type: other
   lifecycle: unknown
